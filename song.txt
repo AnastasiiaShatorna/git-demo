@@ -6,3 +6,5 @@ adding lines
 again
 
 new feature added in a separate branch
+
+adding even more text to the branch
