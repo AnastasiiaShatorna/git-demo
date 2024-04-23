@@ -1,4 +1,8 @@
 
 second line
 line number 3
-This is something I am adding to master
+
+This is something I am adding to the master
+
+This is the line I added in a feature branch
+
