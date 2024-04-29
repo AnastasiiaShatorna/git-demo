@@ -6,3 +6,4 @@ This is something I am adding to the master
 
 This is the line I added in a feature branch
 
+For tag only
